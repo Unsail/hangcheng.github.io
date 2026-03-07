@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing the M.Sc. degree at Tsinghua Shenzhen International Graduate School, Tsinghua University. I have received the B.E. degree from Northeastern University, China, in 2024. 
 
-My research interest includes 3D vision and sketch retrieval. I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes 3D vision and sketch retrieval. I have published papers at the top international AI conferences (You can also use google scholar badge <a href='[https://scholar.google.com/citations?user=DhtAFkwAAAAJ](https://scholar.google.com.hk/citations?user=DPvWtDcAAAAJ&hl=zh-CN&oi=sra)'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -47,8 +47,8 @@ My research interest includes 3D vision and sketch retrieval. I have published p
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - 2026.03 (now)*, Tsinghua Shenzhen International Graduate School, Tsinghua University. 
+- *2020.09 - 2024.06*, Northeastern University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
