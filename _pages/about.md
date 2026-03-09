@@ -42,9 +42,19 @@ XiCheng, Pingfa Feng, Zhichao Liao, Mingyu Fan, **Hang Cheng**, LongZeng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">XXXXX 2025</div><img src='images/MAANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MAANet：A Lightweight Multi-Axis Adaptation Network for Efficient Image Super-Resolution](https://ieeexplore.ieee.org/document/9950486)
+[XXXXXXXXXXXX](https://XXXXXXXXXXX)
 
-**Hang Cheng**, Weixin Liu, Zhenyu Yuan et al.
+**Hang Cheng**, XXXXXX et al.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SJ 2022</div><img src='images/WS2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[XXXXXXXXXXX](https://XXXXXXXXXXXXXXXXXX)
+
+**Hang Cheng**, XXX et al.
 
 </div>
 </div>
@@ -54,13 +64,10 @@ XiCheng, Pingfa Feng, Zhichao Liao, Mingyu Fan, **Hang Cheng**, LongZeng
 
 [WS2 Gas Sensor Based on Photothermocatalytic Effect for Ammonia Detection With High Response](https://ieeexplore.ieee.org/document/9950486)
 
-**Hang Cheng**, Weixin Liu, Zhenyu Yuan et al.
+**Hang Cheng**, Weixin Liu, Ruiyang Chen, Bowen Tan, Muyan He, Renze Zhang, Botao Liu, Zhenyu Yuan
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SJ 2022</div><img src='images/WS2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[WS2 Gas Sensor Based on Photothermocatalytic Effect for Ammonia Detection With High Response](https://ieeexplore.ieee.org/document/9950486)
-**Hang Cheng**, Weixin Liu, Zhenyu Yuan et al.
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
