@@ -25,14 +25,20 @@ My research interest includes 3D vision and sketch retrieval. I have published p
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SJ 2022</div><img src='images/WS2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/WS2.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
-[WS2 Gas Sensor Based on Photothermocatalytic Effect for Ammonia Detection With High Response](https://ieeexplore.ieee.org/document/9950486)
+
+[SDGraph: Multi-Level Sketch Representation Learning by Sparse-Dense Graph Architecture](https://ieeexplore.ieee.org/document/9950486)
+
 **Hang Cheng**, Weixin Liu, Zhenyu Yuan et al.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SJ 2022</div><img src='images/WS2.png' alt="sym" width="100%"></div></div>
+
 <div class='paper-box-text' markdown="1">
+
 [WS2 Gas Sensor Based on Photothermocatalytic Effect for Ammonia Detection With High Response](https://ieeexplore.ieee.org/document/9950486)
+
 **Hang Cheng**, Weixin Liu, Zhenyu Yuan et al.
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SJ 2022</div><img src='images/WS2.png' alt="sym" width="100%"></div></div>
